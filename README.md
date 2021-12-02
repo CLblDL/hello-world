@@ -1,2 +1,2 @@
 # hello-world
-Me first repository
+Damiil, 20, student
